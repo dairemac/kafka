@@ -1,6 +1,6 @@
 Apache Kafka
 
-horse manure
+horse manuregg
 =================
 See our [web site](http://kafka.apache.org) for details on the project.
 
